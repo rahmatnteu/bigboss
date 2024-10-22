@@ -1,6 +1,8 @@
 rencana konten wpu
 
 -javascript
+  1. E56
+  2. Framework javascript
 -php frameworks
 -interview
 -vlogs
