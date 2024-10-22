@@ -6,3 +6,5 @@ rencana konten wpu
 -php frameworks
 -interview
 -vlogs
+  1. membuat naskah drama
+  2. membuat cerita
